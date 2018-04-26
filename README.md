@@ -1,2 +1,2 @@
-# iot_remedy_box
+# IoT Remedy Box
 Remedy box based on IoT technologies
